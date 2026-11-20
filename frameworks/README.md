@@ -15,12 +15,12 @@
 - A4全年龄Recorded-none90人，成人88人；其余首版单风险主组为HBV74/HCV31/酒精67，因此成人表达主比较集合260人。NAFLD11不能改称NASH；Unknown19不能填阴性。
 - 既有课题卡中的366、360/129、361属于各自标注的输入或原研究口径，不自动替换成本批新限定的成人目标；任何后续运行必须写明使用哪层分母。
 ## 任务二进度与下一批
-任务书范围共16项：A2、A3、A4、A5、A6、A7、A8、A9、A10、A11、B1、B3共12份说明书已合入main；仍有4项待编写。已合入的文档仍含待定或未验收事项，具体见各文，不代表所有模块均已运行或验证。
+任务书范围共16项：A2、A3、A4、A5、A6、A7、A8、A9、A10、A11、B1、B3、B5共13份说明书已合入main；仍有3项待编写。已合入的文档仍含待定或未验收事项，具体见各文，不代表所有模块均已运行或验证。
 | 顺序 | 编号 | 状态 |
 |---|---|---|
 | 第一批 | A2、A3、A4 | 3份说明书已在main；待定/未验收事项见各文第13节 |
 | 第二批 | [A7](A7_immune_subtyping_escape.md)、[A8](A8_tcell_subsets_exhaustion.md)、[A9](A9_immunotherapy_response_prediction.md)、[A5](A5_pathway_activity_scoring.md) | 4份说明书已在main；引用文献标有PMID/DOI；待定/未验收事项见各文 |
-| 第三批 | [A10](A10_drug_sensitivity_resistance.md)、[A11](A11_icca_stroma_fibroblast_subtypes.md)、[A6](A6_mouse_human_cross_species.md)、[B1](B1_rna_modification_regulator_batch.md)、[B3](B3_molecular_subtyping_liver_cancer.md)、B5 | A10、A11、A6、B1、B3已在main；B5待写；A6仍待团队小鼠数据及HCC亚型参考确认；B1面板完整清单、T830批量适配与外部覆盖仍待验收；B3样本级数据核验及亚型复现/重分类须按文内门槛验收 |
+| 第三批 | [A10](A10_drug_sensitivity_resistance.md)、[A11](A11_icca_stroma_fibroblast_subtypes.md)、[A6](A6_mouse_human_cross_species.md)、[B1](B1_rna_modification_regulator_batch.md)、[B3](B3_molecular_subtyping_liver_cancer.md)、[B5](B5_ml_candidate_gene_screening.md) | A10、A11、A6、B1、B3、B5已在main；A6仍待团队小鼠数据及HCC亚型参考确认；B1面板完整清单、T830批量适配与外部覆盖仍待验收；B3样本级数据核验及亚型复现/重分类须按文内门槛验收；B5队列样本核验及无泄漏复现须按文内门槛验收 |
 | 第四批 | B2、B4、B6 | 待写；B2实施仍按仓库冻结要求处理 |
 A1已有，不另写；B7默认不纳入；C档本批不做。遇到输入不够时，先交付可审计定义和停止条件，不把缺口包装成已经实现的分析。
 判断与来源：范围和顺序来自任务书；具体方法、数据、文献、取舍和证据弱项均见各说明书，本文仅作为导航与状态登记。
