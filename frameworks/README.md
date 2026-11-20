@@ -20,13 +20,14 @@
 - 既有课题卡中的366、360/129、361属于各自标注的输入或原研究口径，不自动替换成本批新限定的成人目标；后续运行必须写明使用哪层分母。
 
 ## 任务二进度与下一批
-任务书范围共16项：A2、A3、A4、A5、A6、A7、A8、A9、A10、A11、B1、B3、B5、B4共14份说明书已合入main；仍有B2、B6两项待编写。文档包含待定和未验收事项，不代表所有分析已运行或验证。
+任务书范围共16项：A2、A3、A4、A5、A6、A7、A8、A9、A10、A11、B1、B3、B5、B4共15份说明书已合入main；仍有B2一项待编写。文档包含待定和未验收事项，不代表所有分析已运行或验证。
 
 | 顺序 | 编号 | 状态 |
 |---|---|---|
 | 第一批 | A2、A3、A4 | 3份说明书已在main；待定/未验收事项见各文第13节 |
 | 第二批 | [A7](A7_immune_subtyping_escape.md)、[A8](A8_tcell_subsets_exhaustion.md)、[A9](A9_immunotherapy_response_prediction.md)、[A5](A5_pathway_activity_scoring.md) | 4份说明书已在main；文献标有PMID/DOI；待定/未验收事项见各文 |
 | 第三批 | [A10](A10_drug_sensitivity_resistance.md)、[A11](A11_icca_stroma_fibroblast_subtypes.md)、[A6](A6_mouse_human_cross_species.md)、[B1](B1_rna_modification_regulator_batch.md)、[B3](B3_molecular_subtyping_liver_cancer.md)、[B5](B5_ml_candidate_gene_screening.md) | 6份已在main；A6待团队小鼠数据及HCC亚型参考；B1待面板清单、T830批量适配与外部覆盖验收；B3待样本级核验和亚型复现；B5待样本核验和无泄漏复现 |
-| 第四批 | B2、[B4](B4_multiomics_integration.md)、B6 | B4说明书已在main，PMID/DOI已标；B2实施按仓库冻结要求处理；B6待写 |
+| 第四批 | B2、[B4](B4_multiomics_integration.md)、[B6](B6_metabolomics_differential.md) | B4、B6说明书已在main；B6标有PMID/DOI并注明公开数据集MTBLS8764；B2实施按仓库冻结要求处理 |
 
 A1已有，不另写；B7默认不纳入；C档本批不做。数据不足时交付可审计定义和停止条件，不把缺口包装成已经实现的分析。具体方法、数据、文献、取舍和证据弱项见各说明书。
+
