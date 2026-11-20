@@ -24,13 +24,13 @@
 
 ## 任务二进度与下一批
 
-任务书范围共16项：A2、A3、A4、A5、A7、A8、A9、A10、A11共9份说明书已合入main；仍有7项待编写。已合入的文档仍含待定或未验收事项，具体见各文，不代表所有模块均已运行或验证。
+任务书范围共16项：A2、A3、A4、A5、A6、A7、A8、A9、A10、A11共10份说明书已合入main；仍有6项待编写。已合入的文档仍含待定或未验收事项，具体见各文，不代表所有模块均已运行或验证。
 
 | 顺序 | 编号 | 状态 |
 |---|---|---|
 | 第一批 | A2、A3、A4 | 3份说明书已在main；待定/未验收事项见各文第13节 |
 | 第二批 | [A7](A7_immune_subtyping_escape.md)、[A8](A8_tcell_subsets_exhaustion.md)、[A9](A9_immunotherapy_response_prediction.md)、[A5](A5_pathway_activity_scoring.md) | 4份说明书已在main；引用文献标有PMID/DOI；待定/未验收事项见各文 |
-| 第三批 | [A10](A10_drug_sensitivity_resistance.md)、[A11](A11_icca_stroma_fibroblast_subtypes.md)、A6、B1、B3、B5 | A10、A11已在main；其余4项待写，A6仍缺团队小鼠数据 |
+| 第三批 | [A10](A10_drug_sensitivity_resistance.md)、[A11](A11_icca_stroma_fibroblast_subtypes.md)、[A6](A6_mouse_human_cross_species.md)、B1、B3、B5 | A10、A11、A6已在main；B1、B3、B5待写；A6仍待团队小鼠数据及HCC亚型参考确认 |
 | 第四批 | B2、B4、B6 | 待写；B2实施仍按仓库冻结要求处理 |
 
 A1已有，不另写；B7默认不纳入；C档本批不做。遇到输入不够时，先交付可审计定义和停止条件，不把缺口包装成已经实现的分析。
